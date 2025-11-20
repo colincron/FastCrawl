@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d233109-ae4c-4d0a-b7b2-4f91857ef94f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FastCrawl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastCrawl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastCrawl/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastCrawl/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastCrawl/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastCrawl/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastCrawl/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FastCrawl/spiders/fastcrawl_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapy.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="35kkGUwCTwPqy8CKYuoGofV2PMu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d233109-ae4c-4d0a-b7b2-4f91857ef94f" name="Changes" comment="" />
+      <created>1763661361725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763661361725</updated>
+    </task>
+    <servers />
+  </component>
+</project>
