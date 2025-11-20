@@ -113,7 +113,7 @@ class FastCrawlSpider(scrapy.Spider):
     name = "FastCrawl" # identifies spider, must be unique within project
 
     async def start(self):
-        urls = ["https://www.ebay.com"]
+        urls = ["https://www.example.com"]
         for url in urls:
             print("URL IN URLS LOOP")
             yield scrapy.Request(url=url, callback=self.parse)
